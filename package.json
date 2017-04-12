@@ -1,14 +1,26 @@
 {
   "name": "depmap-diff",
   "version": "1.0.0",
-  "description": "",
+  "description": "Diff Handler for Depmap",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "enginesStrict": true,
+  "engines": {
+    "node": ">= 7.9.0"
+  },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "treeify": "^1.0.1"
+  "license": "MIT",
+  "dependencies": {},
+  "homepage": "https://github.com/depmap/diff#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depmap/diff.git"
+  },
+  "author": "Henry Snopek <hhsnopek@gmail.com> (http://hhsnopek.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/depmap/diff/issues"
   }
 }
