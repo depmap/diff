@@ -12,7 +12,9 @@
   },
   "author": "Henry Snopek <hhsnopek@gmail.com> (http://hhsnopek.com/)",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "code-frame": "^5.0.0"
+  },
   "homepage": "https://github.com/depmap/diff#readme",
   "repository": {
     "type": "git",
