@@ -1,5 +1,5 @@
 {
-  "name": "depmap-diff",
+  "name": "@depmap/diff",
   "version": "1.0.0",
   "description": "Diff Handler for Depmap",
   "main": "index.js",
